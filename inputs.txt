@@ -1,0 +1,10 @@
+
+inputs
+
+movement
+  a - left
+  d - right
+  spacebar - jump
+
+esc - pause screen
+f - mine
